@@ -1,7 +1,7 @@
 # Python-Story-Mode-Escape-room
 
 ## Project Description
-You wake up in a mysterious white room with a dead person and a malnourished companion. You have **10 minutes** to figure out what to do before time runs out. This is a **text-based escape room game in Python**, where you explore objects, solve puzzles, and make decisions that affect your fate. You’ll interact with **safes, notes, and a computer** that requires passing a quiz. Depending on your choices, you might find a **labyrinth, portals, or a village** with secrets about the world 🌎.
+You wake up in a mysterious white room with a dead person and a malnourished companion (unimportant to the story plot). You have **10 minutes** to figure out what to do before time runs out. This is a **text-based escape room game in Python**, where you explore objects, solve puzzles, and make decisions that affect your fate. You’ll interact with **safes, notes, and a computer** that requires passing a quiz. Depending on your choices, you might find a **labyrinth, portals, or a village** with secrets about the world 🌎. These secrets are to be uncovered in the remainder of the story, so play the game and stay tuned.
 
 ---
 
